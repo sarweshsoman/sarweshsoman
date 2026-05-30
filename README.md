@@ -20,5 +20,4 @@ Building scalable systems, developer tooling, and AI-powered workflows.
 ## Connect
 
 Portfolio → https://www.sarweshsoman.in  
-GitHub → https://github.com/sarweshsoman  
 LinkedIn → https://www.linkedin.com/in/sarweshsoman/
